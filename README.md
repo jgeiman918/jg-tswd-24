@@ -16,5 +16,5 @@ I hope to gain several skills from thw TSWD course, including:
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 
-## Final project
+## Final project: [Part 1](final-project-part-one.md) | [Part 2](final-project-part-two.md) | [Part 3](final-project-part-three.md)
 
