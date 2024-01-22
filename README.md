@@ -10,10 +10,10 @@ I hope to gain several skills from thw TSWD course, including:
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt.md)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 
 ## Final project
