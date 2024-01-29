@@ -1,4 +1,4 @@
-Telling Stories with Data Assignment 1: Visualizing Data with Tableau
+Telling Stories with Data Assignment 2: Visualizing Data with Tableau
 
 Part 1
 
