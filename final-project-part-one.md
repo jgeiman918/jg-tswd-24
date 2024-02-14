@@ -1,3 +1,5 @@
+| [home page](https://jgeiman918.github.io/jg-tswd-24/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Outline
 In my project, I am interested in exploring the relationship between major US protest movements and policing. Specifically, I am interested to see what trends exist in reasons given for arrests surrounding these protests, and how trends may differ by location and by reason for the protest. Particularly in the past 5 years, there have been major protests in the US surrounding police brutality--including the largest around the 2020 killing of George Floyd by Minneapolis Police Officer Derek Chauvin--as well as during the 2020 election, after the fall of Roe v. Wade, and in response to the October Hamas attack and the ongoing Israeli campaign in Palestine. 
 
